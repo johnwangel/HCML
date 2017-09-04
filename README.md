@@ -7,19 +7,19 @@ NOTE: This template is proprietary and is made available here only as a work sam
 ## Purpose
 HCML was created as a suite of Microsoft Word-based tools to assist editors at the publishing house to convert author-submitted manuscripts to a consistent format that can be converted automatically to a standard XML using XSLT.
 
-##Technology
+## Technology
 * Microsoft Word 2007 or higher for Windows
 * Microsoft Word 2016 or higher for Mac
 * Uses standard VBA for automation within Word
 * Uses XML to modify the standard Word Ribbon
 
-#Usage
+# Usage
 The suite consists of two Word templates:
 * HCML.dotm: Contains a set of custom Word styles to be applied to paragraphs and characters. These provide semantic structure to the content, and are used downstream in the process to convert content to XML, and to produce both print and electronic formats from the XML. Also incuded in this tool are various routines such as interactive forms and input boxes to help the use apply consistent and proper structure to the manuscript. 
 * HCCleanup.dotm: This is an extended toolset to provide some automated routines for editors to help clean up common typos, check the manuscript for structural errors, and to generate standard reports based on the content.
 * InstallHCML.docm: This is an installation routine to automatically install the templates in their proper locations for use.
 
-#My Contributions
+# My Contributions
 I took over this project very early in its development. Following is a list of functionality that I was responsible for:
 * Designed the content architecture, based on diverse content requirements (fiction, business, culinary, high-design)
 * Integrated some legacy "cleanup" routines, converting to the new content model, and refactored code to improve accuracy
