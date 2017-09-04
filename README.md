@@ -24,15 +24,15 @@ I took over this project very early in its development. Following is a list of f
 * Designed the content architecture, based on diverse content requirements (fiction, business, culinary, high-design)
 * Integrated some legacy "cleanup" routines, converting to the new content model, and refactored code to improve accuracy
 * Created new routines to 
-** validate document structure
-** automatically fix errors that may have been introduced by the Word software
-** auto-generate content such as copyright pages based on various book imprints
-** generate tables of contents 
-** generate lists of styles used in documents
-** create favorite lists of styles to use
-** identify and style special characters in the document
-** easily create custom keyboard shortcuts for accessing the functionality
-** identify and convert fractions to a standard format
-** check formatting of endnotes and footnotes and fix any problems automatically
-** automation to link endnotes and footnotes using Word's Notes feature
-** generate art lists based on standard styling of art througout the manuscript
+  * validate document structure
+  * automatically fix errors that may have been introduced by the Word software
+  * auto-generate content such as copyright pages based on various book imprints
+  * generate tables of contents 
+  * generate lists of styles used in documents
+  * create favorite lists of styles to use
+  * identify and style special characters in the document
+  * easily create custom keyboard shortcuts for accessing the functionality
+  * identify and convert fractions to a standard format
+  * check formatting of endnotes and footnotes and fix any problems automatically
+  * automation to link endnotes and footnotes using Word's Notes feature
+  * generate art lists based on standard styling of art througout the manuscript
